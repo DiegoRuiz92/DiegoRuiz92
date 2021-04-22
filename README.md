@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiegoRuiz92
 - 👀 I’m interested in web programming - 
-- 🌱 I’m currently learning how to develop APIs using Node Js and React 
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any web project
 
 <!---
