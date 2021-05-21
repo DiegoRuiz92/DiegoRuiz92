@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiegoRuiz92
-- 👀 I’m interested in web programming - 
+- 👀 I’m interested in web programming - Frontend and backend 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any web project
 
